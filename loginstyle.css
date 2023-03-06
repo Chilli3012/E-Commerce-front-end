@@ -1,0 +1,52 @@
+.myform{
+    background-color: #263341;
+    height: 700px;
+}
+.login-title{
+    padding-top: 12%;
+    margin-bottom: 8%;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: #36acb3;
+}
+.email-title{
+    margin-top: 2%;
+    margin-bottom: 1%;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: #36acb3;
+}
+.frm-content{
+    /* text-align: center; */
+}
+.login-btn{
+    background-color: #36acb3;
+    width: 25%;
+    margin-top: 8%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.login-btn:hover{
+    background-color: #287579;
+}
+.password-title{
+    margin-top: 2%;
+    margin-bottom: 1%;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: #36acb3;
+}
+.email-icon{
+    position: absolute;
+
+}
+.password-icon{
+    position: absolute;
+    
+}
+#email{
+    border-radius: 17px;
+}
+#password{
+    border-radius: 17px;
+}
