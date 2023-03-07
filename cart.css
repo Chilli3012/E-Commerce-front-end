@@ -1,0 +1,77 @@
+span.addition{
+    font-weight: bolder;
+}
+body{
+    background-color: #263341;
+}
+
+.box{
+    border: black;
+    border-width: 3px;
+    width: 90%;
+    height: 50%
+}
+.content-heading{
+    color: white;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.content-price{
+    display: block;
+    color: white;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.delete-symbol{
+    color: white;
+    /* margin-right: 50%; */
+    /* align-items: center; */
+    /* text-align: center; */
+    /* display:block; */
+}
+.img-style1{
+    width: 80%;
+    height: 80%;
+    object-fit: contain;
+}
+.title{
+    margin-top: 3%;
+    margin-bottom: 5%;
+    color: white;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.summary{
+    margin-top: 5%;
+    color: white;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 15%;
+}
+.summary-text{
+    padding-left: 5%;
+    color: white;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.summary-cost{
+    padding-left: 5%;
+    color: white;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+hr{
+    color: aliceblue;
+}
