@@ -35,7 +35,7 @@ header.innerHTML = `
     <div class="menu">
         <ul class="nav nav-pills menu">
             <li class="nav-item">
-                <a href="header1.html" class="nav-link  a-text-color1 home-button">Home</a>
+                <a href="index.html" class="nav-link  a-text-color1 home-button">Home</a>
             </li>
             <li class="nav-item">
                 <a href="AllProduct.html" class="nav-link a-text-color1">All Products</a>
@@ -112,7 +112,7 @@ footer.innerHTML = `
         <a href="#" class="footer-heading"><b>Links</b></a>
     </div>
     <div class="row">
-        <a href="header1.html">Home</a>
+        <a href="index.html">Home</a>
     </div>
     <div class="row">
         <a href="login.html">Login</a>
