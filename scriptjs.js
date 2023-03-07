@@ -126,4 +126,3 @@ footer.innerHTML = `
 <div class="copyright-section">
 <p class="copyright-text">Copyright ©Ecommerce 2023-24</p>
 </div> 
-`
