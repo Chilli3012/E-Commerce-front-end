@@ -6,6 +6,6 @@ function checker(){
         alert("Login Successful");
     }
     else{
-        alert("Incorrect email or password")
+        alert("Incorrect email or password");
     }
 }
